@@ -1,6 +1,11 @@
-aside {
+.backgroundBlur {
     background-color: rgba(31, 41, 55, 0.8);
     backdrop-filter: blur(10px);
+}
+
+#ainda{
+    box-shadow: inset 20 20 20 20px red;
+    
 }
 
 .flag{
