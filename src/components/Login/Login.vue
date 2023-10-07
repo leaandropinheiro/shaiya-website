@@ -8,12 +8,12 @@
         </div>
         <ul class="flex flex-col gap-4 px-2">
             <li>
-                <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
-                    <span class="flex-1 ml-3 whitespace-nowrap">Login</span>
+                <a href="#" class="flex items-center p-2 text-base font-bold rounded-lg hover:bg-gray-100 group hover:shadow bg-gray-600 hover:bg-gray-500 text-white">
+                    <span class="flex-1 ml-2 whitespace-nowrap">Login</span>
                 </a>
             </li>
             <li>
-                <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
+                <a href="#" class="flex items-center p-2 text-base font-bold rounded-lg hover:bg-gray-100 group hover:shadow bg-gray-600 hover:bg-gray-500 text-white">
                     <span class="flex-1 ml-3 whitespace-nowrap">Register</span>
                 </a>
             </li>
