@@ -4,6 +4,8 @@
             <aside class="flex flex-col gap-2 sm:w-full md:w-3/12 lg:w-3/12 h-auto" aria-label="Sidebar">
                 <login />
                 <ServerStatus />
+                <ServerGuildRank />
+                <ServerRankPvP />
                 <Discord />
             </aside>
             <aside class="lg:w-9/12 border backgroundBlur border-gray-700 sm:w-full md:w-9/12 rounded-xl h-auto" aria-label="Sidebar">
@@ -24,5 +26,7 @@ import ServerDetails from '../ServerDetails/ServerDetails.vue'
 import Login from '../Login/Login.vue'
 import ServerStatus from '../ServerStatus/ServerStatus.vue'
 import Discord from '../Discord/Discord.vue'
+import ServerGuildRank from '../ServerGuildRank/ServerGuildRank.vue'
+import ServerRankPvP from '../ServerRankPvP/ServerRankPvP.vue'
 </script>
 
