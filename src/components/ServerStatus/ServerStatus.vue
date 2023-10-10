@@ -4,7 +4,7 @@
             <h2 class="text-sm md:text-base lg:text-md font-semibold tracking-tight leading-none text-white">Server Status</h2>
         </div>
         <table class="flex flex-row w-full text-sm text-gray-400">
-            <thead class="flex flex-col w-1/4 text-xs uppercase bg-gray-700 text-gray-400">
+            <thead class="flex flex-col w-1/4 text-xs uppercase  text-gray-400">
                 <tr class="flex flex-col">
                     <th scope="col" class="py-3">
                         status
