@@ -6,18 +6,16 @@
         <div class="text-center py-2">
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400">Connect with your account.</p>
         </div>
-        <ul class="flex flex-col gap-4 px-2">
-            <li>
-                <a href="#" class="flex items-center p-2 text-base font-bold rounded-lg hover:bg-gray-100 group hover:shadow bg-gray-600 hover:bg-gray-500 text-white">
+
+        <div class="flex flex-col gap-4 px-2">
+            <button class="flex items-center p-2 text-base font-bold rounded-lg hover:bg-gray-100 group hover:shadow bg-gray-600 hover:bg-gray-500 text-white">
                     <span class="flex-1 ml-2 whitespace-nowrap">Login</span>
-                </a>
-            </li>
-            <li>
-                <a href="#" class="flex items-center p-2 text-base font-bold rounded-lg hover:bg-gray-100 group hover:shadow bg-gray-600 hover:bg-gray-500 text-white">
-                    <span class="flex-1 ml-3 whitespace-nowrap">Register</span>
-                </a>
-            </li>
-        </ul>
+            </button>
+
+            <button class="flex items-center p-2 text-base font-bold rounded-lg hover:bg-gray-100 group hover:shadow bg-gray-600 hover:bg-gray-500 text-white">
+                    <span class="flex-1 ml-2 whitespace-nowrap">Login</span>
+            </button>
+        </div>
         <div class="flex text-center items-center justify-center py-2">
             <a href="#" class="inline-flex items-center text-xs font-normal text-gray-500 hover:underline dark:text-gray-400">
                 <svg class="w-3 h-3 mr-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
