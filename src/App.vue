@@ -25,7 +25,7 @@ import DarkModeButton from './components/DarkModeButton/DarkModeButton.vue';
         </a>
         <div class="px-4">
           <h1 class="text-4xl mb-4 font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl text-white">Lorem, ipsum</h1>
-          <p class="text-lg font-normal lg:text-xl sm:px-16 lg:px-48 text-gray-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. s iure! Labore quod recusandae natus in mollitia consectetur laudantium officiis. Eius neque recusandae aperiam.</p>
+          <p class="text-lg font-normal lg:text-xl sm:px-16 lg:px-48 text-gray-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. s iure! Labore quod recusandae natus in mollitia consectetur laudantium officiis. </p>
         </div>
       </div>    
     </div>
