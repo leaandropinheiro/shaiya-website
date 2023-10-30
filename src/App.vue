@@ -3,6 +3,7 @@
 import Navbar from './components/Navbar/Navbar.vue'
 import Sidebar from './components/Sidebar/Sidebar.vue';
 import DarkModeButton from './components/DarkModeButton/DarkModeButton.vue';
+import Account from './components/Account/Account.vue';
 
 </script>
 

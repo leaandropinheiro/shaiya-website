@@ -2,8 +2,7 @@
     <div class="">
         <div class="flex lg:flex-row sm:flex-col md:flex-row flex-col gap-2 mx-auto max-w-screen-xl">
             <aside class="flex flex-col gap-2 sm:w-full md:w-3/12 lg:w-3/12 h-auto" aria-label="Sidebar">
-                <Login />
-                <LoginForm />
+                <Account />                
                 <ServerStatus />
                 <ServerGuildRank />                     
                 <!---                
@@ -19,9 +18,6 @@
                     <div class="flex flex-col px-4 py-4">
                         <ServerDetails />
                         <!-- este componente deve carregar outros componentes quando for pressionado o botão -->
-                                         
-
-                        
                     </div>                 
                 </div>
             </aside>
@@ -30,11 +26,9 @@
 </template>
 <script setup>
 import ServerDetails from '../ServerDetails/ServerDetails.vue'
-import Login from '../Login/Login.vue'
 import ServerStatus from '../ServerStatus/ServerStatus.vue'
 import Discord from '../Discord/Discord.vue'
 import ServerGuildRank from '../ServerGuildRank/ServerGuildRank.vue'
 import ServerRankPvP from '../ServerRankPvP/ServerRankPvP.vue'
-import LoginForm from '../LoginForm/LoginForm.vue'
 </script>
 
